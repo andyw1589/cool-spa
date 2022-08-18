@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/cool-spa/static/css/main.e14fb0d8.css",
+    "main.js": "/cool-spa/static/js/main.1099f553.js",
+    "static/js/787.f055211e.chunk.js": "/cool-spa/static/js/787.f055211e.chunk.js",
+    "static/media/homeo.png": "/cool-spa/static/media/homeo.3b98189921e3449cf9db.png",
+    "static/media/spa.jpg": "/cool-spa/static/media/spa.93e99035fdfc329c3e12.jpg",
+    "static/media/logo.png": "/cool-spa/static/media/logo.e02597e26405f0a73ed1.png",
+    "static/media/secret-image.jpg": "/cool-spa/static/media/secret-image.908f41ae185662ac84b1.jpg",
+    "static/media/michael.jpg": "/cool-spa/static/media/michael.433ebff28a700fada5dd.jpg",
+    "static/media/facelift.png": "/cool-spa/static/media/facelift.8addeb9e84987d83b8a4.png",
+    "index.html": "/cool-spa/index.html",
+    "main.e14fb0d8.css.map": "/cool-spa/static/css/main.e14fb0d8.css.map",
+    "main.1099f553.js.map": "/cool-spa/static/js/main.1099f553.js.map",
+    "787.f055211e.chunk.js.map": "/cool-spa/static/js/787.f055211e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e14fb0d8.css",
+    "static/js/main.1099f553.js"
+  ]
+}
